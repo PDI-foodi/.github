@@ -31,3 +31,16 @@
   </tr>
 </table>
 
+# commit message
+
+![image](https://github.com/PDI-foodi/.github/assets/127959482/4483cfa5-12cd-437e-a93a-4edb9dd84663)
+
+# code review
+
+![image](https://github.com/PDI-foodi/.github/assets/127959482/30911a86-ec1f-476b-a046-ad8b341f3a25)
+
+![image](https://github.com/PDI-foodi/.github/assets/127959482/5da5886f-df0c-488b-a928-afcb6d1a7165)
+
+
+
+
