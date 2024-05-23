@@ -1,8 +1,8 @@
 <div align="center">
   
-# 신한투자증권 프로디지털 아카데미 프론트엔드 미니프로젝트 1조 
 
-# 로고
+
+# 프디푸디❤️
 
 ![프디푸디](https://github.com/PDI-foodi/.github/assets/127959482/beb5f2a4-6707-40f2-910a-d573bed153d0)
 
