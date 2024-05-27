@@ -7,6 +7,9 @@
 ![프디푸디](https://github.com/PDI-foodi/.github/assets/127959482/beb5f2a4-6707-40f2-910a-d573bed153d0)
 
 
+# 문제인식 
+
+
 # Team Member
 
 
