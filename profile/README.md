@@ -10,6 +10,9 @@
 # 문제인식 
 
 
+
+
+
 # Team Member
 
 
@@ -34,6 +37,10 @@
     <td><a href="https://github.com/lemonticsoul">@lemonticsoul</a></td>
   </tr>
 </table>
+
+
+# Flow Chart
+![제목 없는 다이어그램 drawio (4)](https://github.com/PDI-foodi/.github/assets/127959482/74f0eda8-9120-4c41-bacd-9cbe043ba4f7)
 
 # Commit Message
 
